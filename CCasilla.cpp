@@ -1,13 +1,13 @@
 #include "CCasilla.hpp"
 #include "Ctesconf.hpp"
 
-// Inicializa la casilla con un valor de 1 y como normal
+// Construye la casilla con un valor de 1 y como normal
 CCasilla::CCasilla()
 {
 }
 
 
-//Inicializa la casilla con un valor y tipo enviados como parametro
+//Construye la casilla con un valor y tipo enviados como parametro
 CCasilla::CCasilla(int val, std::string tipo)
 {
     

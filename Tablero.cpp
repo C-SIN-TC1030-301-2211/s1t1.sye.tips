@@ -5,13 +5,13 @@
 #include "CasillaNormal.hpp"
 #include <fstream>
 
-// Crea un Tablero de sólo casillas Normales --------------
+// Construye un Tablero de sólo casillas Normales --------------
 Tablero::Tablero()
 {
     
 }
 
-// Cargar un Tablero desde un archivo ----------------------
+// Construye un Tablero cargandolo desde un archivo ----------------------
 Tablero::Tablero(std::string f)
 {
     

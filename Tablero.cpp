@@ -6,14 +6,12 @@
 #include <fstream>
 
 // Crea un Tablero de sólo casillas Normales --------------
-
 Tablero::Tablero()
 {
     
 }
 
 // Cargar un Tablero desde un archivo ----------------------
-
 Tablero::Tablero(std::string f)
 {
     
